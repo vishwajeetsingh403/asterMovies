@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/asterMovies/static/css/main.e6c13ad2.css",
+    "main.js": "/asterMovies/static/js/main.c811ecbd.js",
+    "static/media/empty.png": "/asterMovies/static/media/empty.0acb45b5127fb5c0b23a.png",
+    "index.html": "/asterMovies/index.html",
+    "main.e6c13ad2.css.map": "/asterMovies/static/css/main.e6c13ad2.css.map",
+    "main.c811ecbd.js.map": "/asterMovies/static/js/main.c811ecbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c811ecbd.js"
+  ]
+}
